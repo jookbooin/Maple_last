@@ -14,15 +14,15 @@
        
        
 ## 검은마법사 공격       
-![KakaoTalk_20230304_153635078](https://user-images.githubusercontent.com/94632156/222880289-5deaef78-5814-477d-afe0-3c134ed5050e.jpg)
+![image](https://user-images.githubusercontent.com/94632156/222880391-cb448cfb-3b84-4298-ae65-af7a3b4537e6.png)
 
 ## 루미너스 공격 
-![KakaoTalk_20230304_153635078_01](https://user-images.githubusercontent.com/94632156/222880296-bf75f50e-bf5a-4d0c-9a9d-2f70c01edf29.jpg)
+![image](https://user-images.githubusercontent.com/94632156/222880350-12327ae2-4634-4b37-8557-32fb884be3f1.png)
 
 ## ex 스토리 라인 1
-![KakaoTalk_20230304_153635078_02](https://user-images.githubusercontent.com/94632156/222880308-370774ec-f567-4b4f-a8c6-630418aa5e4f.jpg)
+![image](https://user-images.githubusercontent.com/94632156/222880411-addf5bd9-9193-4b8b-a4ea-015d144c6f53.png)
 
 ## ex 스토리 라인 2 
-![KakaoTalk_20230304_153635078_03](https://user-images.githubusercontent.com/94632156/222880315-9d53f855-82bb-406f-8c15-258d496aae44.jpg)
+![image](https://user-images.githubusercontent.com/94632156/222880422-2996f29c-fcc8-4558-b928-cc86415f9b59.png)
 
 
